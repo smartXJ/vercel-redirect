@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "https://music.gdstudio.org",
+      "permanent": true
+    }
+  ]
+}
